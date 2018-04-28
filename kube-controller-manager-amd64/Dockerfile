@@ -1,3 +1,3 @@
-FROM gcr.io/google-containers/kube-controller-manager-amd64:v1.10.1
+FROM gcr.io/google-containers/kube-controller-manager-amd64:v1.10.2
 MAINTAINER mocoslee <mocoslee@gmail.com>
 
