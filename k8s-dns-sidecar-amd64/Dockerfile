@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/k8s-dns-sidecar-amd64:1.14.9
+FROM gcr.io/google-containers/k8s-dns-sidecar-amd64:1.14.10
 MAINTAINER mocoslee <mocoslee@gmail.com>
