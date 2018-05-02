@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.14.10
+FROM gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.14.8
 MAINTAINER mocoslee <mocoslee@gmail.com>
